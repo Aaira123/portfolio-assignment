@@ -1,3 +1,7 @@
+/*eslint-disable <react/
+no-unescaped-entities */
+
+
 import React from 'react'
 
 const Skills = () => {
@@ -7,7 +11,7 @@ const Skills = () => {
             <div data-aos="zoom-in-up">
                 <h2 className='text-4xl md:text-5xl'>Technologies I work with</h2>
                 <p className='text-gray-700 pt-2'>
-                    I have a solid foundation in web development, specializing in HTML, CSS AND Javascript. My experience extends to using frameworks like React and Next.js to create dynamic and user-friendly applications.I'm also proficient in Tailwind CSS for efficient styling and design.With a passion for learning, I stay update on the latest technologies to enhance my skill set and contribute effectively to projects.
+                    I have a solid foundation in web development, specializing in HTML, CSS AND Javascript. My experience extends to using frameworks like React and Next.js to create dynamic and user-friendly applications.I&rsquo;m also proficient in Tailwind CSS for efficient styling and design.With a passion for learning, I stay update on the latest technologies to enhance my skill set and contribute effectively to projects.
                 </p>
             </div>
             <div>
